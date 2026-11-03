@@ -1,0 +1,5 @@
+question,expected_response
+hello,Hello! How are you?
+how are you,I am fine. Thank you!
+your name,I am your chatbot.
+bye,Goodbye!

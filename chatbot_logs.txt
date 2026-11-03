@@ -1,0 +1,8 @@
+Chatbot Development Project
+Version: 1.0
+Status: Running Successfully
+Features:
+1. User input
+2. Automated responses
+3. CSV-based question matching
+4. Chat history storage
